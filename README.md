@@ -24,85 +24,85 @@ dla wyselekcjonowanej listy pakietów i materiałów.
 
 ## CMS - System zarządzania treścią
 
-* [Keystone](https://github.com/keystonejs/keystone) ([website](http://keystonejs.com/)) - The open source framework for developing database-driven websites, applications and APIs. Built on Express and MongoDB.
-* [Pencilblue](https://github.com/pencilblue/pencilblue) ([website](https://pencilblue.org/)) - Business Class Content Management.
-* [Apostrophe](https://github.com/punkave/apostrophe) ([website](http://apostrophecms.org/)) - Apostrophe is a CMS framework that supports in-context editing, schema-driven content types, flexible widgets, and much more.
-* [Cody](https://github.com/jcoppieters/cody/) ([website](http://cody-cms.org/en/)) - Javascript Content Management System.
-* [HashBrown](https://github.com/Putaitu/hashbrown-cms/) ([website](http://hashbrown.rocks/)) - Remote, multilingual, multi-project, multi-environment CMS using customisable content and field schemas.
-* [Strapi](https://github.com/strapi/strapi) ([website](http://strapi.io)) - Open source Node.js ecosystem to build, deploy and manage your own API.
-* [Enduro.js](https://github.com/Gottwik/enduro) ([website](http://endurojs.com)) - Minimalistic, flat-file, full-fledged cms that gets your website running in minutes.
-* [Raneto](https://github.com/gilbitron/Raneto) ([website](http://raneto.com/)) - Markdown powered Knowledgebase for Nodejs
+* [Keystone](https://github.com/keystonejs/keystone) ([strona](http://keystonejs.com/)) - Framework open source do tworzenia stron internetowych, aplikacji i interfejsów API opartych na bazie danych. Zbudowany na Express i MongoDB.
+* [Pencilblue](https://github.com/pencilblue/pencilblue) ([strona](https://pencilblue.org/)) - Zarządzanie treścią w klasie biznes.
+* [Apostrophe](https://github.com/punkave/apostrophe) ([strona](http://apostrophecms.org/)) - Apostrophe to framework CMS, który obsługuje edycję kontekstową, typy treści oparte na schemacie, elastyczne widżety i wiele więcej.
+* [Cody](https://github.com/jcoppieters/cody/) ([strona](http://cody-cms.org/en/)) - System zarządzania treścią JavaScript.
+* [HashBrown](https://github.com/Putaitu/hashbrown-cms/) ([strona](http://hashbrown.rocks/)) - Zdalny, wielojęzyczny, wielozadaniowy, wielośrodowiskowy CMS z wykorzystaniem konfigurowalnych treści.
+* [Strapi](https://github.com/strapi/strapi) ([strona](http://strapi.io)) - Ekosystem Node.js typu open source do tworzenia, wdrażania i zarządzania własnym interfejsem API.
+* [Enduro.js](https://github.com/Gottwik/enduro) ([strona](http://endurojs.com)) - Minimalistyczny, pełnoprawny CMS, dzięki którym Twoja strona internetowa działa w kilka minut.
+* [Raneto](https://github.com/gilbitron/Raneto) ([strona](http://raneto.com/)) - Baza wiedzy oparta na Markdown dla Nodejs
 
 **Aplikacje Meteor**
-* [TelescopeJS](https://github.com/TelescopeJS/Telescope) ([website](http://www.telescopeapp.org)) - Telescope Nova is a free, open-source app platform built with React and powered by Meteor on the back-end. Nova provides simple building blocks such as posts, comments, forms, and modals, and makes it easy to quickly customize them to build modern, social web apps.
+* [TelescopeJS](https://github.com/TelescopeJS/Telescope) ([strona](http://www.telescopeapp.org)) - Telescope Nova to darmowa platforma aplikacji typu open source zbudowana z React i zasilana przez Meteor na backendzie. Nova zapewnia proste elementy składowe, takie jak posty, komentarze, formularze i moduły, i ułatwia szybkie dostosowywanie ich do tworzenia nowoczesnych aplikacji społecznościowych.
 
 
 ## Programistyczne
 
-* [Shield](https://github.com/badges/shields) ([website](http://shields.io/)) - Shields badge specification, website and default API server.
-* [David-www](https://github.com/alanshaw/david-www) ([website](https://david-dm.org/)) - David helps keep your project dependencies up to date.
-* [JSON-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously).
-* [Mongo-Express](https://github.com/mongo-express/mongo-express) - Web-based MongoDB admin interface, written with express.
-* [Eve](https://github.com/witheve/Eve) ([website](http://witheve.com/)) - Eve is a set of tools to help us think. Currently, these tools include: a temporal query language, a compiler, and a database.
-* [Hotel](https://github.com/typicode/hotel) - Start your dev servers from your browser and get local domains in seconds.
-* [Hackathon Starter](https://github.com/sahat/hackathon-starter) - A boilerplate for Node.js web applications.
-* [Node-RED](https://github.com/node-red/node-red) - A visual tool for wiring the Internet of Things
-* [nscm](https://github.com/nodesource/nscm) - An open-source CLI tool for working with NodeSource Certified Modules
+* [Shield](https://github.com/badges/shields) ([strona](http://shields.io/)) - Shields badge specification, website and default API server.
+* [David-www](https://github.com/alanshaw/david-www) ([strona](https://david-dm.org/)) - David pomaga aktualizować zależności projektu.
+* [JSON-server](https://github.com/typicode/json-server) - Uzyskaj w pełni fałszywy interfejs API REST nie kodując w mniej niż 30 sekund (poważnie).
+* [Mongo-Express](https://github.com/mongo-express/mongo-express) - Internetowy interfejs administratora MongoDB napisany z Express.
+* [Eve](https://github.com/witheve/Eve) ([strona](http://witheve.com/)) - Eve to zestaw narzędzi, które pomagają nam myśleć. Obecnie do narzędzi tych należą: język zapytań czasowych, kompilator i baza danych.
+* [Hotel](https://github.com/typicode/hotel) - Uruchom dev servers z przeglądarki i uzyskaj domeny lokalne w kilka sekund.
+* [Hackathon Starter](https://github.com/sahat/hackathon-starter) - Boilerplate dla aplikacji webowych Node.js.
+* [Node-RED](https://github.com/node-red/node-red) - Wizualne narzędzie do okablowania Internet of Things
+* [nscm](https://github.com/nodesource/nscm) - Narzędzie CLI typu open source do pracy z NodeSource Certified Modules
 
 **Aplikacje Electron**
 
-* [Atom](https://github.com/atom/atom) ([website](https://atom.io/)) - Fully hackable text editor using Chrome.
-* [Visual Studio Code](https://github.com/Microsoft/vscode) ([website](https://code.visualstudio.com/)) - An Electron based text editor created by Microsoft.
+* [Atom](https://github.com/atom/atom) ([strona](https://atom.io/)) - Desktopowy edytor programistycznych kodów źródłowych z kolorowaniem składni dla wielu języków.
+* [Visual Studio Code](https://github.com/Microsoft/vscode) ([strona](https://code.visualstudio.com/)) - Edytor tekstu oparty na Electron'ie stworzony przez Microsoft.
 
 ## Formularze
 
-* [TellForm](https://github.com/whitef0x0/tellform) ([website](https://tellform.com))- A beautiful and powerful self-hostable Form and Survey builder similar to Typeform or Google Forms.
+* [TellForm](https://github.com/whitef0x0/tellform) ([strona](https://tellform.com))- Piękny i potężny samowystarczalny konstruktor formularzy i ankiet podobny do Typeform lub Google Forms.
 
 ## Blogi
 
-* [Ghost](https://github.com/TryGhost/Ghost) ([website](https://ghost.org/)) - A simple, powerful publishing platform.
-* [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) - Blog using Expressjs, Angularjs and Mongodb. MEAN Javascript Fullstack application.
-* [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ([website](https://developer.wordpress.com/calypso/)) - The new JavaScript- and API-powered WordPress.com.
-* [Hexo](https://github.com/hexojs/hexo) ([website](https://hexo.io/)) - A fast, simple & powerful blog framework.
-* [Reptar](https://github.com/reptar/reptar) ([website](http://reptar.github.io/)) - Powerful, modern, and flexible static site generator.
+* [Ghost](https://github.com/TryGhost/Ghost) ([strona](https://ghost.org/)) - Prosta, wydajna platforma wydawnicza.
+* [Mean-Blog](https://github.com/DimitriMikadze/Mean-Blog) - Bloguj za pomocą Expressjs, Angularjs i Mongodb. Aplikacja MEAN Javascript Fullstack.
+* [Wordpress Calypso](https://github.com/Automattic/wp-calypso) ([strona](https://developer.wordpress.com/calypso/)) - Nowy WordPress.com z obsługą JavaScript i API.
+* [Hexo](https://github.com/hexojs/hexo) ([strona](https://hexo.io/)) - Szybki, prosty i wydajny system blogów.
+* [Reptar](https://github.com/reptar/reptar) ([strona](http://reptar.github.io/)) - Wydajny, nowoczesny i elastyczny generator stron statycznych.
 
 ## Menedżery plików
 
-* [Cloud Commander](https://github.com/coderaiser/cloudcmd)([website](https://cloudcmd.io)) - Orthodox web file manager with console and editor.
+* [Cloud Commander](https://github.com/coderaiser/cloudcmd)([strona](https://cloudcmd.io)) - Ortodoksyjny menedżer plików internetowych z konsolą i edytorem.
 
 ## Styl życia
 
-* [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([website](http://mediacenterjs.com/)) - A HTML/CSS/Javascript based Media center.
-* [Habitica](https://github.com/HabitRPG/habitica) ([website](https://habitica.com/static/front)) - A habit tracker app which treats your goals like a Role Playing Game.
-* [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli.
+* [Mediacenterjs](https://github.com/jansmolders86/mediacenterjs) ([strona](http://mediacenterjs.com/)) - Centrum mediów oparte na HTML / CSS / Javascript.
+* [Habitica](https://github.com/HabitRPG/habitica) ([strona](https://habitica.com/static/front)) - Aplikacja do śledzenia nawyków, która traktuje twoje cele jak grę fabularną.
+* [moeda](https://github.com/thompsonemerson/moeda) - Kursy walut i przeliczanie walut za pomocą CLI.
 
 ## Biznes
 
-* [TimeOff Management](https://github.com/timeoff-management/application) ([website](http://timeoff.management/)) - Simple yet powerful absence management software for small and medium size business.
-* [Gadael](https://github.com/gadael/gadael) ([website](http://www.gadael.org)) Leave management software with french work regulations support.
-* [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([website](https://bhi.ma/)) - Hospital management suite for the developing world.
+* [TimeOff Management](https://github.com/timeoff-management/application) ([strona](http://timeoff.management/)) - Proste, ale potężne oprogramowanie do zarządzania nieobecnościami dla małych i średnich firm.
+* [Gadael](https://github.com/gadael/gadael) ([strona](http://www.gadael.org)) Pozostaw oprogramowanie do zarządzania z obsługą francuskich przepisów pracy.
+* [Basic Hospital Information Management Application](https://github.com/IMA-WorldHealth/bhima-2.X) ([strona](https://bhi.ma/)) - Pakiet do zarządzania szpitalami dla rozwijającego się świata.
 * [Agile GPS](https://github.com/llambda/agilegps) - Real-time fleet tracking software
 
 ## Nauka
 
-* [NASA's Open MCT](https://github.com/nasa/openmct) ([website](https://nasa.github.io/openmct/)) - A web based mission control framework.
+* [NASA's Open MCT](https://github.com/nasa/openmct) ([strona](https://nasa.github.io/openmct/)) - Framework webowy mission control.
 
 ## eCommerce
 
-* [A Guide to E-Commerce for Node.js Developers](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial) - Using Node.js to build your online store (tutorial included with KOA.js).
+* [A Guide to E-Commerce for Node.js Developers](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial) - Używanie Node.js do budowy sklepu internetowego (samouczek dołączony do KOA.js).
 
 **Aplikacje Meteor**
 
-* [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([website](https://reactioncommerce.com/)) - A modern reactive, real-time event driven ecommerce platform.
+* [Reaction Commerce](https://github.com/reactioncommerce/reaction) ([strona](https://reactioncommerce.com/)) - Nowoczesna, reaktywna platforma e-commerce oparta na zdarzeniach.
 
 ## Chat Boty
 
-* [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([website](https://www.facebook.com/PokedexGo/)) - A Pokédex Messenger Bot for Pokémon Go to easily find Pokémon and their strenghts & weaknesses.
-* [System Discord Bot](https://github.com/shiigehiro/System) ([website](https://shiigehiro.github.io/system)) - A Moderative and user-friendly Discord bot. 
+* [PokéDex Go Messenger Bot](https://github.com/zwacky/pokedex-go) ([strona](https://www.facebook.com/PokedexGo/)) - A Pokédex Messenger Bot dla Pokémon Go, aby łatwo znaleźć Pokemony oraz ich mocne i słabe strony.
+* [System Discord Bot](https://github.com/shiigehiro/System) ([strona](https://shiigehiro.github.io/system)) - Moderujący i przyjazny dla użytkownika bot Discord.
  
 ## Analityka
 
-* [Countly](https://github.com/countly/countly-server) ([website](http://count.ly)) - Platforma analityczna i marketingowa open source, mobilna i internetowa dla Androida, iOS i webowa.
+* [Countly](https://github.com/countly/countly-server) ([strona](http://count.ly)) - Platforma analityczna i marketingowa open source, mobilna i internetowa dla Androida, iOS i webowa.
 
 
 ## Licencja
