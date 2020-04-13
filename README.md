@@ -6,10 +6,10 @@ dla wyselekcjonowanej listy pakietów i materiałów.
 > [Przeczytaj historię tego, jak repozytorium zajęło pierwsze miejsce w Hacker News i osiągnęło ponad 1000 gwiazdek na GitHub.](https://medium.com/@vdeturckheim/the-story-of-how-i-got-first-place-on-hacker-news-and-got-1000-stars-on-github-9dc9e63ef829#.1v4b51fvs)
 
 ## Zawartość
-* [CMS - Systemy zarządzania treścią](#cms--systemy-zarządzania-treścią)
-* [Aplikacje Meteor](#aplikacje-meteor)
+* [CMS - Systemy zarządzania treścią](#cms---system-zarz%C4%85dzania-tre%C5%9Bci%C4%85)
+* Aplikacje Meteor
 * [Programistyczne](#programistyczne)
-* [Aplikacje Electron](#aplikacje-electron)
+* Aplikacje Electron
 * [Formularze](#formularze)
 * [Blogi](#blogi)
 * [Menedżery plików](#menedżery-plików)
