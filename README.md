@@ -7,9 +7,9 @@ dla wyselekcjonowanej listy pakietów i materiałów.
 
 ## Zawartość
 * [CMS - Systemy zarządzania treścią](#cms---system-zarz%C4%85dzania-tre%C5%9Bci%C4%85)
-* Aplikacje Meteor
+  * Aplikacje Meteor
 * [Programistyczne](#programistyczne)
-* Aplikacje Electron
+  * Aplikacje Electron
 * [Formularze](#formularze)
 * [Blogi](#blogi)
 * [Menedżery plików](#menedżery-plików)
